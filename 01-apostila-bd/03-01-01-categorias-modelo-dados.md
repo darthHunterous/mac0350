@@ -6,4 +6,7 @@
 * **Modelo de alto nível**: entidades, atributos e relacionamentos
   * **Entidade**: objeto representado na base de dados
   * **Atributo**: propriedade que descreve aspecto do objeto
+  * **Relacionamento**: entre objetos no modelo de alto nível
+* **Modelo de baixo nível**: como dados são armazenados no computador; formato e ordem dos registros e caminho de acesso
+  * **Caminho de acesso**: estrutura para facilitar a busca de um registro
 
